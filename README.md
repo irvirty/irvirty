@@ -7,9 +7,9 @@
 
 ## Hi there 👋
 
+- ❤️ My interests are web design and programming.
 - 🔭 I'm currently working on test projects for practice.
 - 🌱 I’m currently learning JavaScript and English.
-- ❤️ My interests are web design and programming.
 
 <!--
 **irvirty/irvirty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
