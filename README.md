@@ -10,7 +10,7 @@
 ❤️ My interests are web design and programming.  
 🔨 Skills: CSS, PHP, JavaScript, and Inkscape.  
 🌱 I’m currently learning JavaScript and English.  
-📁 Almost all projects are in the [one repository](https://github.com/irvirty/irvirty.pages.dev) or [website](https://irvirty.pages.dev/).  
+📁 Almost all projects are in [one repository](https://github.com/irvirty/irvirty.pages.dev) or [website](https://irvirty.pages.dev/).  
 ⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.   
 
 <!--
