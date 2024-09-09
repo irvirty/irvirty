@@ -7,7 +7,7 @@
 
 ## Hi there 👋
 
-❤️ My interests are web design and programming. 
+❤️ My interests are web design and programming.  
 🔨 Skills: CSS, PHP, JavaScript, and Inkscape.  
 🌱 I’m currently learning JavaScript and English.  
 📁 Almost all projects are in the [homepage repository](https://github.com/irvirty/irvirty.pages.dev).  
