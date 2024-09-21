@@ -15,7 +15,7 @@
 ⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.   
 
 <!--
-**irvirty/irvirty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
