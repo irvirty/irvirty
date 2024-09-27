@@ -14,6 +14,18 @@
 📁 Almost all projects are in one [repository](https://github.com/irvirty/irvirty.pages.dev) or [website](https://irvirty.pages.dev/).  
 ⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.   
 
+---
+  
+> [!NOTE]
+> - This page was built using [GitHub](https://github.com/)  
+  
+---
+  
+### GitHub Explore tags:  
+
+[#Profile](https://github.com/topics/profile),
+[#Readme profile](https://github.com/topics/readme-profile),
+
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
