@@ -24,7 +24,7 @@
 ### GitHub Explore tags:  
 
 [#Profile](https://github.com/topics/profile),
-[#Readme profile](https://github.com/topics/readme-profile),
+[#Readme profile](https://github.com/topics/readme-profile)
 
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
