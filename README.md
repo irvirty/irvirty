@@ -9,8 +9,8 @@
 
 👨🏻‍💻 I'm a self-taught web developer.  
 ❤️ My interests are web design and programming.  
-🔨 Skills: HTML, CSS, PHP, JavaScript, and Inkscape.  
 🌱 I’m currently learning JavaScript and English.  
+🔨 Skills: HTML, CSS, PHP, JavaScript, and Inkscape.  
 📁 Almost all projects are in one [repository](https://github.com/irvirty/irvirty.pages.dev) or [website](https://irvirty.pages.dev/).  
 ⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.   
 
