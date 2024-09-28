@@ -12,6 +12,7 @@
 🌱 I’m currently learning JavaScript and English.  
 🔨 Skills: HTML, CSS, PHP, JavaScript, and Inkscape.  
 📁 Almost all projects are in one [repository](https://github.com/irvirty/irvirty.pages.dev) or [website](https://irvirty.pages.dev/).  
+☕ [Buy irvirty a coffee](https://buymeacoffee.com/irvirty)   
 ⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.   
 
 ---
