@@ -1,4 +1,5 @@
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-profile-banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="github-profile-banner-light.png">
@@ -6,10 +7,8 @@
 </picture>
 
 ## Hi there 👋
-
-❤️ My interests are web design and programming.  
-🌱 I’m currently learning JavaScript and English.  
-🔨 Skills: HTML, CSS, PHP, JavaScript, and Inkscape.  
+ 
+🔨 I mainly do some things using CSS, JavaScript (JS).  
 📁 Almost all projects are in one [Repository](https://github.com/irvirty/irvirty.pages.dev) or [Website](https://irvirty.pages.dev/).  
 ⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.     
 
