@@ -8,7 +8,7 @@
 
 ## Hi there 👋
  
-🔨 I mainly do some things using CSS, JavaScript (JS).  
+🔨 I mainly do some things using CSS, and JavaScript (JS).  
 📁 Almost all projects are in one [Repository](https://github.com/irvirty/irvirty.pages.dev) or [Website](https://irvirty.pages.dev/).  
 ⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.     
 
