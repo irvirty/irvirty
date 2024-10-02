@@ -6,7 +6,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="github-profile-banner-dark.png">
 </picture>
 
-## Hi there 👋
+## Hello! 👋
  
 🔨 I mainly do some things using CSS, and JavaScript (JS).  
 📁 Almost all projects are in one [Repository](https://github.com/irvirty/irvirty.pages.dev) or [Website](https://irvirty.pages.dev/).  
