@@ -1,5 +1,4 @@
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-profile-banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="github-profile-banner-light.png">
@@ -38,5 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
