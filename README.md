@@ -8,7 +8,7 @@
 
 ## Good day! 👋
  
-👨🏻‍💻 I mainly do some things using CSS, and JavaScript (JS).  
+👨🏻‍💻 I like to code and love CSS, I use PHP and MySQL, and now I'm learning (and using) JavaScript.  
 📁 Almost all projects are in one [Repository](https://github.com/irvirty/irvirty.pages.dev) or [Website](https://irvirty.pages.dev/).  
 ⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.     
 
