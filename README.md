@@ -7,8 +7,8 @@
 
 ## Good day! 👋
  
-👨🏻‍💻 I like CSS and use PHP, MySQL, JavaScript, and Inkscape.  
-📁 Almost all projects are in one [Repository](https://github.com/irvirty/irvirty.pages.dev) or [Website](https://irvirty.pages.dev/).  
+👨🏻‍💻 I like CSS and most projects are written in JavaScript.  
+📁 All projects in one place: [Repository](https://github.com/irvirty/irvirty.pages.dev) or [Website](https://irvirty.pages.dev/).  
 ⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.     
 
 ---
