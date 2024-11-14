@@ -7,7 +7,7 @@
 
 ## Good day! 👋
  
-👨🏻‍💻 I like CSS, JavaScript and PHP.  
+👨🏻‍💻 I like CSS, PHP and JavaScript.  
 📁 All projects in one place: [Repository](https://github.com/irvirty/irvirty.pages.dev) or [Website](https://irvirty.pages.dev/).  
 ⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.     
 
