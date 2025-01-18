@@ -5,11 +5,13 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="github-profile-banner-dark.png">
 </picture>
 
-## Good day! 👋
+## Hello! 👋
  
 👨🏻‍💻 I like CSS, PHP and JavaScript.  
+🌱 I’m currently learning JS (JavaScript).  
 📁 Almost all projects in one place: [Repository](https://github.com/irvirty/irvirty.pages.dev) or [Website](https://irvirty.pages.dev/).  
-⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.     
+⚡ Fun fact: README.md functions similarly to the main page (index.html) in a repository.  
+⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.  
 
 ---
   
