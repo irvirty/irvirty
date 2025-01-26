@@ -7,7 +7,7 @@
 
 ## Hello! 👋
  
-👨🏻‍💻 I like CSS, PHP and JavaScript.  
+👨🏻‍💻 I use HTML, CSS, PHP, and JavaScript.  
 🌱 I’m currently learning JS (JavaScript).  
 📁 Almost all projects in one place: [Repository](https://github.com/irvirty/irvirty.pages.dev) or [Website](https://irvirty.pages.dev/).  
 ⚡ Fun fact: README.md functions similarly to the main page (index.html) in a repository.  
