@@ -12,13 +12,14 @@
 📁 Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repository](https://github.com/irvirty/irvirty.pages.dev).  
 ⚡ Fun fact: README.md functions similarly to the main page (index.html) in a repository.  
 ⚡ Fun fact: Using CSS you can draw something, this is called CSS Art.  
-
+<!--
 ---
   
 > [!NOTE]
 > - This page was built using [GitHub](https://github.com/)  
-  
+-->
 ---
+
   
 ### 🏷️ GitHub Explore, topics:  
 
