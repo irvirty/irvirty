@@ -7,7 +7,7 @@
 
 ## Hello! 👋
  
-👨🏻‍💻 I use HTML, CSS, PHP, and JavaScript.  
+👨🏻‍💻 I use HTML, CSS, PHP, MySQL and JavaScript.  
 🌱 I’m currently learning JS (JavaScript).  
 📁 Almost all projects in one [Repository](https://github.com/irvirty/irvirty.pages.dev).  
 ⚡ Fun fact:  
