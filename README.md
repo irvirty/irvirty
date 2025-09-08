@@ -9,7 +9,7 @@
  
 👨🏻‍💻 I use HTML, CSS, PHP, MySQL and JavaScript.  
 🌱 I’m currently learning JS (JavaScript).  
-📁 Almost all projects in one repository: [irvirty.pages.dev](https://github.com/irvirty/irvirty.pages.dev) 
+📁 Almost all projects in one repository: [irvirty.pages.dev](https://github.com/irvirty/irvirty.pages.dev)  
 ❤️ Favorite software: Firefox, Ubuntu, GIMP, Inkscape, XAMPP  
 ...    
 ⚡ Fun fact:  
