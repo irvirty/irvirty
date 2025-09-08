@@ -5,7 +5,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="github-profile-banner-dark.png">
 </picture>
 
-## Good day 👋  
+## 👋 Hello
  
 👨🏻‍💻 I use HTML, CSS, PHP, MySQL and JavaScript (unprofessionally).  
 🌱 I’m currently learning JS (JavaScript).  
