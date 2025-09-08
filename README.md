@@ -9,7 +9,8 @@
  
 👨🏻‍💻 I use HTML, CSS, PHP, MySQL and JavaScript.  
 🌱 I’m currently learning JS (JavaScript).  
-📁 Almost all projects in one repository: [irvirty.pages.dev](https://github.com/irvirty/irvirty.pages.dev).  
+📁 Almost all projects in one repository: [irvirty.pages.dev](https://github.com/irvirty/irvirty.pages.dev)   
+...    
 ⚡ Fun fact:  
 • README.md functions similarly to the main page (index.html) in a repository.  
 • Using CSS you can draw something, this is called CSS Art.  
