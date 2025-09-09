@@ -5,8 +5,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="github-profile-banner-dark.png">
 </picture>
 
-## 👨🏻‍💻 About me
-👋 Hi there  
+## Hey There! 👋
 📜 I use HTML, CSS, PHP, MySQL and JavaScript (unprofessionally)  
 🌱 I’m currently learning JS (JavaScript)   
 ❤️ Favorite software: Firefox, Ubuntu, GIMP, Inkscape, XAMPP  
@@ -30,7 +29,8 @@
 ### 🏷️ GitHub Explore, topics:  
 
 [Profile](https://github.com/topics/profile?s=updated),
-[Readme profile](https://github.com/topics/readme-profile?s=updated),
+[Profile](https://github.com/topics/github-profile?s=updated),
+[Github Profile](https://github.com/topics/readme-profile?s=updated),
 [Readme](https://github.com/topics/readme?s=updated),
 
 <!--
