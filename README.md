@@ -6,15 +6,15 @@
 </picture>
 
 ## 👨🏻‍💻 About me
- 
-📜 I use HTML, CSS, PHP, MySQL and JavaScript (unprofessionally).  
-🌱 I’m currently learning JS (JavaScript).  
-📁 Almost all projects in one repository: [irvirty.pages.dev](https://github.com/irvirty/irvirty.pages.dev)  
+👋 Hi there  
+📜 I use HTML, CSS, PHP, MySQL and JavaScript (unprofessionally)  
+🌱 I’m currently learning JS (JavaScript)   
 ❤️ Favorite software: Firefox, Ubuntu, GIMP, Inkscape, XAMPP  
-...    
+📫 How to reach me: [irvirty@gmail.com](mailto:irvirty@gmail.com)  
+...  
 ⚡ Fun fact:  
-• README.md functions similarly to the main page (index.html) in a repository.  
-• Using CSS you can draw something, this is called CSS Art.  
+• README.md functions similarly to the main page (index.html) in a repository  
+• Using CSS you can draw something, this is called CSS Art  
   
 <!--
 ---
