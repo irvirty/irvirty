@@ -6,7 +6,7 @@
 </picture>
 
 ## Hey There! 👋
-📜 I use HTML, CSS, PHP, MySQL and JavaScript (unprofessionally)  
+📜 I use HTML, CSS, PHP, MySQL and JavaScript  
 🌱 I’m currently learning JS (JavaScript)   
 ❤️ Favorite software: Firefox, Ubuntu, GIMP, Inkscape, XAMPP  
 📫 How to reach me: [irvirty@gmail.com](mailto:irvirty@gmail.com)  
