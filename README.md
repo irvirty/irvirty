@@ -29,8 +29,8 @@
 ### 🏷️ GitHub Explore, topics:  
 
 [Profile](https://github.com/topics/profile?s=updated),
-[Profile](https://github.com/topics/github-profile?s=updated),
-[Github Profile](https://github.com/topics/readme-profile?s=updated),
+[GitHub Profile](https://github.com/topics/github-profile?s=updated),
+[Readme Profile](https://github.com/topics/readme-profile?s=updated),
 [Readme](https://github.com/topics/readme?s=updated),
 
 <!--
