@@ -9,7 +9,7 @@
 📜 I use HTML, CSS, PHP, MySQL and JavaScript.  
 🌱 I'm currently learning JS (JavaScript) and English.  
 ❤️ Favorite software: Firefox, Ubuntu, GIMP, Inkscape, XAMPP.  
-🎮 Games: Typing (WPM).  
+🎮 Games: Typing speed (WPM).  
 📫 How to reach me: [irvirty@gmail.com](mailto:irvirty@gmail.com)  
 ...  
 ⚡ Fun fact:  
