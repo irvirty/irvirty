@@ -1,4 +1,5 @@
 
+<!--https://github.blog/developer-skills/github/how-to-make-your-images-in-markdown-on-github-adjust-for-dark-mode-and-light-mode/#-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-profile-banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="github-profile-banner-light.png">
@@ -15,7 +16,7 @@
 
 ---
   
-🗂️ Almost all projects in one repository: [irvirty.pages.dev](https://github.com/irvirty/irvirty.pages.dev)  
+🗂️ Almost all projects in one place: [website](https://irvirty.pages.dev/) or [repository](https://github.com/irvirty/irvirty.pages.dev).  
   
 <!--
 ---
