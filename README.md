@@ -15,7 +15,7 @@
 
 ---
   
-🗂️ Almost all projects are hosted in the repository of my website [repository](https://github.com/irvirty/irvirty.pages.dev)  
+🗂️ Almost all projects in one repository: [repository](https://github.com/irvirty/irvirty.pages.dev)  
   
 <!--
 ---
