@@ -15,7 +15,7 @@
 
 ---
   
-🗂️ Almost all projects in one repository: [repository](https://github.com/irvirty/irvirty.pages.dev)  
+🗂️ Almost all projects in one repository: [irvirty.pages.dev](https://github.com/irvirty/irvirty.pages.dev)  
   
 <!--
 ---
