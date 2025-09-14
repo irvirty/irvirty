@@ -14,6 +14,10 @@
 ⚡ Fun fact:  
 • README.md functions similarly to the main page (index.html) in a repository.  
 • Using CSS you can draw something, this is called CSS Art.  
+
+---
+  
+🗂️ Almost all projects are hosted in the repository of my website [repository](https://github.com/irvirty/irvirty.pages.dev)  
   
 <!--
 ---
