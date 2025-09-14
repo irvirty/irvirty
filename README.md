@@ -8,8 +8,6 @@
 ## Hey There! 👋
 📜 I use HTML, CSS, PHP, MySQL, and JavaScript (self-taught).  
 🌱 I'm currently learning JS (JavaScript) and English.  
-❤️ Favorite software: Firefox, Ubuntu, GIMP, Inkscape, XAMPP.  
-🎮 Games: Typing Speed (WPM).  
 📫 How to reach me: [irvirty@gmail.com](mailto:irvirty@gmail.com)  
 ⚡ Fun fact:  
 • README.md functions similarly to the main page (index.html) in a repository.  
