@@ -31,10 +31,10 @@ Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repo
   
 ### GitHub Explore, topics:  
 
-[Profile](https://github.com/topics/profile?s=updated),
-[GitHub Profile](https://github.com/topics/github-profile?s=updated),
-[Readme Profile](https://github.com/topics/readme-profile?s=updated),
-[Readme](https://github.com/topics/readme?s=updated),
+[Profile](https://github.com/topics/profile),
+[GitHub Profile](https://github.com/topics/github-profile),
+[Readme Profile](https://github.com/topics/readme-profile),
+[Readme](https://github.com/topics/readme),
 
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
