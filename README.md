@@ -6,17 +6,17 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="github-profile-banner-dark.png">
 </picture>
 
-## Hey There! 👋
-📜 I use HTML, CSS, PHP, MySQL, and JavaScript (self-taught).  
-🌱 I'm currently learning JS (JavaScript) and English.  
-📫 How to reach me: [irvirty@gmail.com](mailto:irvirty@gmail.com)  
-⚡ Fun fact:  
+## Hey There!
+• I use HTML, CSS, PHP, MySQL, and JavaScript (self-taught).  
+• I'm currently learning JS (JavaScript) and English.  
+• How to reach me: [irvirty@gmail.com](mailto:irvirty@gmail.com)  
+• Fun fact:  
 • README.md functions similarly to the main page (index.html) in a repository.  
 • Using CSS you can draw something, this is called CSS Art.  
 
 ---
   
-🗂️ Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repository](https://github.com/irvirty/irvirty.pages.dev).  
+Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repository](https://github.com/irvirty/irvirty.pages.dev).  
   
 <!--
 ---
@@ -29,7 +29,7 @@
   
 ---
   
-### 🏷️ GitHub Explore, topics:  
+### GitHub Explore, topics:  
 
 [Profile](https://github.com/topics/profile?s=updated),
 [GitHub Profile](https://github.com/topics/github-profile?s=updated),
