@@ -7,6 +7,8 @@
 </picture>
 
 ## Hey There!
+• Europe. He/him.
+• Web design and web development.
 • I use HTML, CSS, PHP, MySQL, and JavaScript (self-taught).  
 • I'm currently learning JS (JavaScript) and English.  
 • How to reach me: [irvirty@gmail.com](mailto:irvirty@gmail.com)  
