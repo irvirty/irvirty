@@ -6,7 +6,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="github-profile-banner-dark.png">
 </picture>
 
-## Hey There!
+# Hey There!
 • Europe. He/him.  
 • Web design and web development (self-taught).  
 • I use HTML, CSS, PHP, MySQL, and JavaScript.  
@@ -41,7 +41,7 @@ Fun fact:
   
 ---
   
-### GitHub Explore, topics:  
+## GitHub Explore, topics:  
 
 [Profile](https://github.com/topics/profile),
 [GitHub Profile](https://github.com/topics/github-profile),
