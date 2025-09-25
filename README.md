@@ -12,13 +12,22 @@
 • I use HTML, CSS, PHP, MySQL, and JavaScript.  
 • I'm currently learning JS (JavaScript) and English.  
 • How to reach me: [s2m8voqyg@mozmail.com](mailto:s2m8voqyg@mozmail.com)  
-Fun fact:  
-• README.md functions similarly to the main page (index.html) in a repository.  
-• Using CSS you can draw something, this is called CSS Art.  
+  
+---
+  
+• Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repository](https://github.com/irvirty/irvirty.pages.dev).  
+• Homepages:
+[irvirty.pages.dev](https://irvirty.pages.dev/),
+[irvirty.neocities.org](https://irvirty.neocities.org/),
+[irvirty.github.io](https://irvirty.github.io/),
 
 ---
   
-Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repository](https://github.com/irvirty/irvirty.pages.dev).  
+Fun fact:  
+• README.md functions similarly to the main page (index.html) in a repository.  
+• Using CSS you can draw something, this is called CSS art.  
+  
+
   
 <!--
 ---
