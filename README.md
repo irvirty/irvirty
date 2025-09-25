@@ -19,7 +19,8 @@
 • Homepages:
 [irvirty.pages.dev](https://irvirty.pages.dev/),
 [irvirty.neocities.org](https://irvirty.neocities.org/),
-[irvirty.github.io](https://irvirty.github.io/),
+[irvirty.github.io](https://irvirty.github.io/),  
+• Bluesky: [@irvirty.pages.dev](https://bsky.app/profile/irvirty.pages.dev)
 
 ---
   
