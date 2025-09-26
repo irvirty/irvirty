@@ -15,12 +15,7 @@
   
 ---
   
-• Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repository](https://github.com/irvirty/irvirty.pages.dev).  
-• My websites:
-[irvirty.pages.dev](https://irvirty.pages.dev/),
-[irvirty.neocities.org](https://irvirty.neocities.org/),
-[irvirty.github.io](https://irvirty.github.io/),  
-• Bluesky: [@irvirty.pages.dev](https://bsky.app/profile/irvirty.pages.dev)
+Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repository](https://github.com/irvirty/irvirty.pages.dev).  
 
 ---
   
