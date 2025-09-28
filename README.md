@@ -12,18 +12,14 @@
 • I use HTML, CSS, PHP, MySQL, and JavaScript.  
 • I'm currently learning JS (JavaScript) and English.  
 • How to reach me: [s2m8voqyg@mozmail.com](mailto:s2m8voqyg@mozmail.com)  
+Fun fact:   
+• Using CSS you can draw something, this is called CSS art.  
   
 ---
   
 Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repository](https://github.com/irvirty/irvirty.pages.dev).  
 
 ---
-  
-Fun fact:   
-• README.md functions similarly to the main page (index.html) in a repository.  
-• Using CSS you can draw something, this is called CSS art.  
-  
-
   
 <!--
 ---
@@ -33,8 +29,6 @@ Fun fact:
   
 ---
 -->
-  
----
   
 ## GitHub Explore, topics:  
 
