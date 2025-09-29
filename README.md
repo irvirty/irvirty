@@ -18,8 +18,6 @@ Fun fact:
 ---
   
 Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repository](https://github.com/irvirty/irvirty.pages.dev).  
-
----
   
 <!--
 ---
@@ -29,6 +27,10 @@ Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repo
   
 ---
 -->
+
+<!--
+  
+---
   
 ## GitHub Explore, topics:  
 
@@ -36,7 +38,7 @@ Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repo
 [GitHub Profile](https://github.com/topics/github-profile),
 [Readme Profile](https://github.com/topics/readme-profile),
 [Readme](https://github.com/topics/readme),
-
+-->
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
