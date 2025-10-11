@@ -17,7 +17,7 @@ Fun fact:
   
 ---
   
-Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repository](https://github.com/irvirty/irvirty.pages.dev) (HTML, CSS, and JavaScript).  
+Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repository](https://github.com/irvirty/irvirty.pages.dev)  
   
 <!--
 ---
