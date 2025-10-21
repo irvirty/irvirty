@@ -11,7 +11,6 @@
 • Web design and web development (self-taught).  
 • I use HTML, CSS, PHP, MySQL, and JavaScript.  
 • I'm currently learning JS (JavaScript) and English.  
-• How to reach me: [s2m8voqyg@mozmail.com](mailto:s2m8voqyg@mozmail.com)  
 Fun fact:   
 • Using CSS you can draw something, this is called CSS art.  
   
