@@ -6,13 +6,12 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="github-profile-banner-dark.png">
 </picture>
 
-# Hey There!
-• Europe. He/him.  
-• Web design and web development (self-taught).  
-• I use HTML, CSS, PHP, MySQL, and JavaScript.  
-• I'm currently learning JS (JavaScript) and English.  
-Fun fact:   
-• Using CSS you can draw something, this is called CSS art.  
+# 👋 Hey There!
+🌍 Europe 👨🏻‍💻 He/him.  
+💻 Web design and web development (self-taught).  
+🔨 I use HTML, CSS, PHP, MySQL, and JavaScript.  
+🌱 I'm currently learning JS (JavaScript) and English.  
+⚡ Fun fact: using CSS you can draw something, this is called CSS art.  
   
 ---
   
