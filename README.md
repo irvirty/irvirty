@@ -15,7 +15,7 @@
   
 ---
   
-🗂️ Almost all projects in one place: [Website](https://irvirty.pages.dev/) or [Repository](https://github.com/irvirty/irvirty.pages.dev)  
+🗂️ Almost all projects in one place: [Website](https://irvirty.is-local.org/) or [Repository](https://github.com/irvirty/irvirty.pages.dev)  
   
 <!--
 ---
