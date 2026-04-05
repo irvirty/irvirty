@@ -12,9 +12,6 @@
 🔨 I use HTML, CSS, PHP, MySQL, and JavaScript.  
 🌱 I'm currently learning JS (JavaScript) and English.  
 ⚡ Fun fact: using CSS you can draw something, this is called CSS art.  
-  
----
-  
 🗂️ Almost all projects in one place: [Website](https://irvirty.is-local.org/) or [Repository](https://github.com/irvirty/irvirty.pages.dev)  
   
 <!--
